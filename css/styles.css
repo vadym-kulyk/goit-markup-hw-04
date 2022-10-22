@@ -317,6 +317,7 @@ height: 20px;
 .clients-list-item {
   height: 90px;
   width: calc(100% /6 - 30px);
+  
 }
 
 
@@ -335,8 +336,7 @@ height: 20px;
   color: #AFB1B8;
 }
 
-width: 170px;
-height: 90px;
+
 
 
 .clients-link:hover .clients-icon,
